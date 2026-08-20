@@ -15,8 +15,6 @@ This project demonstrates complete schematic capture, circuit layout, and design
   * 0.6 mm widened primary power routing to prevent voltage drops
 
 ## Design Files
-* **Schematic:** Available as a PDF in `/docs/dual-555-schematic.pdf`
-* **Manufacturing (Gerbers):** Production-ready Gerber files available in `/hardware/gerbers.zip`
 * **EDA Tool:** KiCad 8.0+
 
 ## License
