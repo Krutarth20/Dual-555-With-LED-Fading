@@ -5,7 +5,7 @@ A compact, 2-layer PCB designed in KiCad featuring a dual NE555 timer circuit co
 ## Overview
 This project demonstrates complete schematic capture, circuit layout, and design for manufacturing (DFM) for a pulse-driven 555 timer board.
 
-![Image Of 3D View](C:\Users\KRUTARTH\Pictures\Screenshots\3D PCB)
+![Image Of 3D View](3D PCB)
 
 ### Key Technical Specifications
 * **Input Voltage:** 9V DC (Standard 9V Battery footprint)
