@@ -1,4 +1,4 @@
-# Dual NE555 Timer LED Driver PCB
+# Dual NE555 Timer LED PCB
 
 A compact, 2-layer PCB designed in KiCad featuring a dual NE555 timer circuit configured to drive an 8-LED array with dedicated current balancing and complete ground plane isolation.
 
