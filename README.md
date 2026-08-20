@@ -2,8 +2,6 @@
 
 A compact, 2-layer PCB designed in KiCad featuring a dual NE555 timer circuit configured to drive an 8-LED array with dedicated current balancing and complete ground plane isolation.
 
-![3D Render](docs/3d-board-render.png)
-
 ## Overview
 This project demonstrates complete schematic capture, circuit layout, and design for manufacturing (DFM) for a pulse-driven 555 timer board.
 
