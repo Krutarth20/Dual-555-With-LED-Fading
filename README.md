@@ -12,7 +12,6 @@ This project demonstrates complete schematic capture, circuit layout, and design
 * **Protection & Stability:**
   * Dedicated 220Ω series current-limiting resistors for each LED to prevent thermal runaway
   * Solid top and bottom ground plane (F.Cu/B.Cu) copper pours to minimize EMI
-  * 0.6 mm widened primary power routing to prevent voltage drops
 
 ## Design Files
 * **EDA Tool:** KiCad 8.0+
